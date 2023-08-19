@@ -11,7 +11,7 @@ import (
 	"sync"
 	"sync/atomic"
 
-	"github.com/meagar/himama-dl/internal/himama"
+	"github.com/donthave2cows/repo/internal/himama"
 )
 
 func main() {
